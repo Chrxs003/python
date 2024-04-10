@@ -1,0 +1,17 @@
+int_1 = 5
+int_2 = 7
+int_3 = 8
+int_4 = 12
+int_5 = 15
+str_1 = "Schlange"
+str_2 = 'Cobra'
+str_3 = 'Datentypen in Python'
+str_4 = "Ok"
+str_5 = 'WWW'
+str_6 = "Ahja"
+float_1 = 5.25
+float_2 = 4.21
+float_3 = 7.9
+float_4 = 12.23
+float_5 = 22.98
+float_6 = 34.345828283747263
